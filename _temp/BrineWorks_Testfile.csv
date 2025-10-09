@@ -1,0 +1,7 @@
+CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+11000,MR.,JON,YANG,04-08-66,M,M,jon24@adventure-works.com,"$90,000 ",2,Bachelors,Professional,Y
+11001,MR.,EUGENE,HUANG,5/14/1965,S,M,eugene10@adventure-works.com,"$60,000 ",3,Bachelors,Professional,N
+11002,MR.,RUBEN,TORRES,08-12-65,M,M,ruben35@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
+11003,MS.,CHRISTY,ZHU,2/15/1968,S,F,christy12@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
+11004,MRS.,ELIZABETH,JOHNSON,08-08-68,S,F,elizabeth5@adventure-works.com,"$80,000 ",5,Bachelors,Professional,Y
+11005,MR.,JULIO,RUIZ,08-05-65,S,M,julio1@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
