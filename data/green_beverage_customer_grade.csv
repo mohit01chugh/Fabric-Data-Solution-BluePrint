@@ -1,9 +1,0 @@
-Grade,Customer Type,Trade Type,Discount Type
-A,General,Traditional,0.05
-B,General,Traditional,0.04
-C,General,Traditional,0.035
-D,General,Traditional,0.03
-G,Institutional,Modern,0.1
-I,Institutional,Modern,0.06
-O,Online,Modern,0.02
-R,Retail Chain,Modern,0.08
