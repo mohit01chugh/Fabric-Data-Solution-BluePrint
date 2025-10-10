@@ -1,0 +1,31 @@
+Product Code,Product,Category,Parent Category,Color,gms,Unit to Kg,Price/kg
+PRDT-01,White Sugar,Sugar,Grocery,White,500,2,80
+PRDT-02,Brown Sugar,Sugar,Grocery,Brown,500,2,95
+PRDT-03,Basmati Rice,Rice,Grains,White,1000,1,120
+PRDT-04,Wheat Flour,Flour,Grains,White,1000,1,60
+PRDT-05,Instant Noodles,Noodles,Snacks,Yellow,75,13.33333333,200
+PRDT-06,Potato Chips,Chips,Snacks,Yellow,50,20,250
+PRDT-07,Orange Juice,Juice,Beverages,Orange,200,5,180
+PRDT-08,Apple Juice,Juice,Beverages,Red,200,5,190
+PRDT-09,Milk (Tetra Pak),Dairy,Dairy,White,500,2,70
+PRDT-10,Yogurt (Plain),Dairy,Dairy,White,150,6.666666667,160
+PRDT-11,Coffee Sachet 10gms,Coffee,Beverages,Brown,10,100,250
+PRDT-12,Coffee Box 250gms,Coffee,Beverages,Brown,250,4,220
+PRDT-13,Tea Bag,Tea,Beverages,Black,2.5,400,280
+PRDT-14,Green Tea,Tea,Beverages,Green,100,10,220
+PRDT-15,Flavor Tea,Tea,Beverages,Blue,100,10,240
+PRDT-16,Dust Tea,Tea,Beverages,Brown,250,4,198
+PRDT-17,Choco,Chocolate,Chocolate,Black,30,33.33333333,330
+PRDT-18,Caramel,Chocolate,Chocolate,Brown,35,28.57142857,350
+PRDT-19,Almond,Chocolate,Chocolate,Brown,32,31.25,360
+PRDT-20,Cheese,Cheese,Grocery,Yellow,10,100,280
+PRDT-21,Bread,Bread,Grocery,Brown,45,22.22222222,150
+PRDT-22,Chocolate Protein,Supplements,Supplements,Blue,1000,1,650
+PRDT-23,Glucose Powder,Supplements,Supplements,Orange,250,4,300
+PRDT-24,Frozen Fries,Frozen,Frozen,Yellow,300,3.333333333,400
+PRDT-25,Frozen Pizza,Frozen,Frozen,Blue,250,4,400
+PRDT-26,Chilli Powder,Masala Mix,Kitchen,Red,50,20,150
+PRDT-27,Oregano,Masala Mix,Kitchen,Green,50,20,150
+PRDT-28,Chaat Masala,Masala Mix,Kitchen,Black,50,20,150
+PRDT-29,Tomato Ketchup,Sauce,Kitchen,Red,250,4,400
+PRDT-30,Mustard Sauce,Sauce,Kitchen,Yellow,400,2.5,500
