@@ -1,11 +1,11 @@
-# 🌟 Microsoft Fabric Data Solution BluePrint
+                                                    # 🌟 Microsoft Fabric Data Solution Blueprint 🌟
 
 [![Project Status](https://img.shields.io/badge/Status-Complete-green.svg)](https://github.com/YourRepoLinkHere)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🎯 Overview
 
-This repository provides a complete, **End-to-End (E2E) Reference Architecture** for building robust data analytics solutions entirely within **Microsoft Fabric**.
+**End-to-End (E2E) Reference Architecture** for building robust data analytics solutions entirely within **Microsoft Fabric**.
 
 The solution demonstrates best practices across the entire data lifecycle: ingestion, transformation, storage in a **Lakehouse**, and presentation via **Power BI**. It is fully governed using **Application Lifecycle Management (ALM)** principles via Fabric's native Deployment Pipelines (CI/CD).
 
