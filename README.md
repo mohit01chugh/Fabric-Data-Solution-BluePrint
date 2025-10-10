@@ -1,6 +1,6 @@
-                                                    # 🌟 Microsoft Fabric Data Solution Blueprint 🌟
+# 🌟 Microsoft Fabric Data Solution Blueprint 🌟
 
-[![Project Status](https://img.shields.io/badge/Status-Complete-green.svg)](https://github.com/YourRepoLinkHere)
+[![Project Status](https://img.shields.io/badge/Status-Complete-green.svg)](https://github.com/mohit01chugh)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## 🎯 Overview
