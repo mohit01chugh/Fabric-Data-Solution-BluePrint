@@ -1,0 +1,50 @@
+[
+  {
+    "Grade":"A",
+    "Customer Type":"General",
+    "Trade Type":"Traditional",
+    "Discount Type":0.05
+  },
+  {
+    "Grade":"B",
+    "Customer Type":"General",
+    "Trade Type":"Traditional",
+    "Discount Type":0.04
+  },
+  {
+    "Grade":"C",
+    "Customer Type":"General",
+    "Trade Type":"Traditional",
+    "Discount Type":0.035
+  },
+  {
+    "Grade":"D",
+    "Customer Type":"General",
+    "Trade Type":"Traditional",
+    "Discount Type":0.03
+  },
+  {
+    "Grade":"G",
+    "Customer Type":"Institutional",
+    "Trade Type":"Modern",
+    "Discount Type":0.1
+  },
+  {
+    "Grade":"I",
+    "Customer Type":"Institutional",
+    "Trade Type":"Modern",
+    "Discount Type":0.06
+  },
+  {
+    "Grade":"O",
+    "Customer Type":"Online",
+    "Trade Type":"Modern",
+    "Discount Type":0.02
+  },
+  {
+    "Grade":"R",
+    "Customer Type":"Retail Chain",
+    "Trade Type":"Modern",
+    "Discount Type":0.08
+  }
+]

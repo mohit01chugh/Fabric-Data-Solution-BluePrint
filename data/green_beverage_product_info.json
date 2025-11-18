@@ -1,0 +1,202 @@
+[
+  {
+    "Product Code":"PRDT-11",
+    "Product":"Coffee Sachet 10gms",
+    "Category":"Coffee",
+    "Parent Category":"Beverages",
+    "Color":"Brown",
+    "gms":10.0,
+    "Unit to Kg":100.0,
+    "Price\/kg":250
+  },
+  {
+    "Product Code":"PRDT-12",
+    "Product":"Coffee Box 250gms",
+    "Category":"Coffee",
+    "Parent Category":"Beverages",
+    "Color":"Brown",
+    "gms":250.0,
+    "Unit to Kg":4.0,
+    "Price\/kg":220
+  },
+  {
+    "Product Code":"PRDT-13",
+    "Product":"Tea Bag",
+    "Category":"Tea",
+    "Parent Category":"Beverages",
+    "Color":"Black",
+    "gms":2.5,
+    "Unit to Kg":400.0,
+    "Price\/kg":280
+  },
+  {
+    "Product Code":"PRDT-14",
+    "Product":"Green Tea",
+    "Category":"Tea",
+    "Parent Category":"Beverages",
+    "Color":"Green",
+    "gms":100.0,
+    "Unit to Kg":10.0,
+    "Price\/kg":220
+  },
+  {
+    "Product Code":"PRDT-15",
+    "Product":"Flavor Tea",
+    "Category":"Tea",
+    "Parent Category":"Beverages",
+    "Color":"Blue",
+    "gms":100.0,
+    "Unit to Kg":10.0,
+    "Price\/kg":240
+  },
+  {
+    "Product Code":"PRDT-16",
+    "Product":"Dust Tea",
+    "Category":"Tea",
+    "Parent Category":"Beverages",
+    "Color":"Brown",
+    "gms":250.0,
+    "Unit to Kg":4.0,
+    "Price\/kg":198
+  },
+  {
+    "Product Code":"PRDT-17",
+    "Product":"Choco",
+    "Category":"Chocolate",
+    "Parent Category":"Chocolate",
+    "Color":"Black",
+    "gms":30.0,
+    "Unit to Kg":33.33333333,
+    "Price\/kg":330
+  },
+  {
+    "Product Code":"PRDT-18",
+    "Product":"Caramel",
+    "Category":"Chocolate",
+    "Parent Category":"Chocolate",
+    "Color":"Brown",
+    "gms":35.0,
+    "Unit to Kg":28.57142857,
+    "Price\/kg":350
+  },
+  {
+    "Product Code":"PRDT-19",
+    "Product":"Almond",
+    "Category":"Chocolate",
+    "Parent Category":"Chocolate",
+    "Color":"Brown",
+    "gms":32.0,
+    "Unit to Kg":31.25,
+    "Price\/kg":360
+  },
+  {
+    "Product Code":"PRDT-20",
+    "Product":"Cheese",
+    "Category":"Cheese",
+    "Parent Category":"Grocery",
+    "Color":"Yellow",
+    "gms":10.0,
+    "Unit to Kg":100.0,
+    "Price\/kg":280
+  },
+  {
+    "Product Code":"PRDT-21",
+    "Product":"Bread",
+    "Category":"Bread",
+    "Parent Category":"Grocery",
+    "Color":"Brown",
+    "gms":45.0,
+    "Unit to Kg":22.22222222,
+    "Price\/kg":150
+  },
+  {
+    "Product Code":"PRDT-22",
+    "Product":"Chocolate Protein",
+    "Category":"Supplements",
+    "Parent Category":"Supplements",
+    "Color":"Blue",
+    "gms":1000.0,
+    "Unit to Kg":1.0,
+    "Price\/kg":650
+  },
+  {
+    "Product Code":"PRDT-23",
+    "Product":"Glucose Powder",
+    "Category":"Supplements",
+    "Parent Category":"Supplements",
+    "Color":"Orange",
+    "gms":250.0,
+    "Unit to Kg":4.0,
+    "Price\/kg":300
+  },
+  {
+    "Product Code":"PRDT-24",
+    "Product":"Frozen Fries",
+    "Category":"Frozen",
+    "Parent Category":"Frozen",
+    "Color":"Yellow",
+    "gms":300.0,
+    "Unit to Kg":3.333333333,
+    "Price\/kg":400
+  },
+  {
+    "Product Code":"PRDT-25",
+    "Product":"Frozen Pizza",
+    "Category":"Frozen",
+    "Parent Category":"Frozen",
+    "Color":"Blue",
+    "gms":250.0,
+    "Unit to Kg":4.0,
+    "Price\/kg":400
+  },
+  {
+    "Product Code":"PRDT-26",
+    "Product":"Chilli Powder",
+    "Category":"Masala Mix",
+    "Parent Category":"Kitchen",
+    "Color":"Red",
+    "gms":50.0,
+    "Unit to Kg":20.0,
+    "Price\/kg":150
+  },
+  {
+    "Product Code":"PRDT-27",
+    "Product":"Oregano",
+    "Category":"Masala Mix",
+    "Parent Category":"Kitchen",
+    "Color":"Green",
+    "gms":50.0,
+    "Unit to Kg":20.0,
+    "Price\/kg":150
+  },
+  {
+    "Product Code":"PRDT-28",
+    "Product":"Chaat Masala",
+    "Category":"Masala Mix",
+    "Parent Category":"Kitchen",
+    "Color":"Black",
+    "gms":50.0,
+    "Unit to Kg":20.0,
+    "Price\/kg":150
+  },
+  {
+    "Product Code":"PRDT-29",
+    "Product":"Tomato Ketchup",
+    "Category":"Sauce",
+    "Parent Category":"Kitchen",
+    "Color":"Red",
+    "gms":250.0,
+    "Unit to Kg":4.0,
+    "Price\/kg":400
+  },
+  {
+    "Product Code":"PRDT-30",
+    "Product":"Mustard Sauce",
+    "Category":"Sauce",
+    "Parent Category":"Kitchen",
+    "Color":"Yellow",
+    "gms":400.0,
+    "Unit to Kg":2.5,
+    "Price\/kg":500
+  }
+]

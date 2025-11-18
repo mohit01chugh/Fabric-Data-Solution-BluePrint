@@ -1,0 +1,2502 @@
+[
+  {
+    "Beat Code":"BEAT -150",
+    "Sales Person":"ASM-198",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -209",
+    "Sales Person":"ASM-015",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -469",
+    "Sales Person":"ASM-109",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -395",
+    "Sales Person":"ASM-192",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -389",
+    "Sales Person":"ASM-304",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -455",
+    "Sales Person":"ASM-163",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -341",
+    "Sales Person":"ASM-081",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -86",
+    "Sales Person":"ASM-078",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -78",
+    "Sales Person":"ASM-264",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -468",
+    "Sales Person":"ASM-037",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -149",
+    "Sales Person":"ASM-227",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -387",
+    "Sales Person":"ASM-249",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -69",
+    "Sales Person":"ASM-014",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -302",
+    "Sales Person":"ASM-034",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -478",
+    "Sales Person":"ASM-006",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -64",
+    "Sales Person":"ASM-200",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -102",
+    "Sales Person":"ASM-225",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -190",
+    "Sales Person":"ASM-270",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -367",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -203",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -460",
+    "Sales Person":"ASM-286",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -418",
+    "Sales Person":"ASM-207",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -70",
+    "Sales Person":"ASM-302",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -439",
+    "Sales Person":"ASM-224",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -482",
+    "Sales Person":"ASM-313",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -399",
+    "Sales Person":"ASM-105",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -313",
+    "Sales Person":"ASM-147",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -66",
+    "Sales Person":"ASM-056",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -179",
+    "Sales Person":"ASM-206",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -268",
+    "Sales Person":"ASM-294",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -497",
+    "Sales Person":"ASM-249",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -272",
+    "Sales Person":"ASM-240",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -391",
+    "Sales Person":"ASM-143",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -07",
+    "Sales Person":"ASM-183",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -99",
+    "Sales Person":"ASM-263",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -414",
+    "Sales Person":"ASM-173",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -467",
+    "Sales Person":"ASM-059",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -346",
+    "Sales Person":"ASM-021",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -257",
+    "Sales Person":"ASM-151",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -171",
+    "Sales Person":"ASM-043",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -338",
+    "Sales Person":"ASM-206",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -484",
+    "Sales Person":"ASM-109",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -392",
+    "Sales Person":"ASM-103",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -316",
+    "Sales Person":"ASM-155",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -29",
+    "Sales Person":"ASM-062",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -254",
+    "Sales Person":"ASM-150",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -289",
+    "Sales Person":"ASM-151",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -131",
+    "Sales Person":"ASM-294",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -68",
+    "Sales Person":"ASM-061",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -495",
+    "Sales Person":"ASM-238",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -433",
+    "Sales Person":"ASM-057",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -22",
+    "Sales Person":"ASM-019",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -187",
+    "Sales Person":"ASM-265",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -305",
+    "Sales Person":"ASM-042",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -237",
+    "Sales Person":"ASM-097",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -471",
+    "Sales Person":"ASM-078",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -198",
+    "Sales Person":"ASM-243",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -383",
+    "Sales Person":"ASM-036",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -496",
+    "Sales Person":"ASM-217",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -220",
+    "Sales Person":"ASM-031",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -435",
+    "Sales Person":"ASM-102",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -309",
+    "Sales Person":"ASM-207",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -59",
+    "Sales Person":"ASM-013",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -431",
+    "Sales Person":"ASM-203",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -403",
+    "Sales Person":"ASM-303",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -153",
+    "Sales Person":"ASM-228",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -421",
+    "Sales Person":"ASM-192",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -361",
+    "Sales Person":"ASM-222",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -06",
+    "Sales Person":"ASM-148",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -327",
+    "Sales Person":"ASM-299",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -436",
+    "Sales Person":"ASM-307",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -277",
+    "Sales Person":"ASM-042",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -110",
+    "Sales Person":"ASM-291",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -456",
+    "Sales Person":"ASM-165",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -347",
+    "Sales Person":"ASM-186",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -362",
+    "Sales Person":"ASM-231",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -224",
+    "Sales Person":"ASM-314",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -162",
+    "Sales Person":"ASM-272",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -138",
+    "Sales Person":"ASM-188",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -241",
+    "Sales Person":"ASM-244",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -330",
+    "Sales Person":"ASM-310",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -175",
+    "Sales Person":"ASM-039",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -300",
+    "Sales Person":"ASM-249",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -349",
+    "Sales Person":"ASM-153",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -62",
+    "Sales Person":"ASM-234",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -98",
+    "Sales Person":"ASM-068",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -200",
+    "Sales Person":"ASM-201",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -444",
+    "Sales Person":"ASM-216",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -368",
+    "Sales Person":"ASM-002",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -356",
+    "Sales Person":"ASM-118",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -296",
+    "Sales Person":"ASM-146",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -127",
+    "Sales Person":"ASM-159",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -182",
+    "Sales Person":"ASM-279",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -251",
+    "Sales Person":"ASM-298",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -26",
+    "Sales Person":"ASM-267",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -321",
+    "Sales Person":"ASM-222",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -381",
+    "Sales Person":"ASM-204",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -222",
+    "Sales Person":"ASM-209",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -105",
+    "Sales Person":"ASM-072",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -147",
+    "Sales Person":"ASM-307",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -213",
+    "Sales Person":"ASM-171",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -81",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -174",
+    "Sales Person":"ASM-157",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -139",
+    "Sales Person":"ASM-018",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -295",
+    "Sales Person":"ASM-186",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -79",
+    "Sales Person":"ASM-270",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -451",
+    "Sales Person":"ASM-050",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -446",
+    "Sales Person":"ASM-022",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -37",
+    "Sales Person":"ASM-212",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -208",
+    "Sales Person":"ASM-262",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -196",
+    "Sales Person":"ASM-193",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -388",
+    "Sales Person":"ASM-060",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -448",
+    "Sales Person":"ASM-079",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -155",
+    "Sales Person":"ASM-215",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -135",
+    "Sales Person":"ASM-310",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -152",
+    "Sales Person":"ASM-091",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -284",
+    "Sales Person":"ASM-052",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -394",
+    "Sales Person":"ASM-197",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -415",
+    "Sales Person":"ASM-168",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -71",
+    "Sales Person":"ASM-038",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -156",
+    "Sales Person":"ASM-151",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -454",
+    "Sales Person":"ASM-180",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -461",
+    "Sales Person":"ASM-135",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -290",
+    "Sales Person":"ASM-235",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -34",
+    "Sales Person":"ASM-309",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -36",
+    "Sales Person":"ASM-240",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -128",
+    "Sales Person":"ASM-027",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -447",
+    "Sales Person":"ASM-208",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -183",
+    "Sales Person":"ASM-139",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -120",
+    "Sales Person":"ASM-045",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -233",
+    "Sales Person":"ASM-042",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -271",
+    "Sales Person":"ASM-225",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -275",
+    "Sales Person":"ASM-304",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -232",
+    "Sales Person":"ASM-294",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -235",
+    "Sales Person":"ASM-184",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -311",
+    "Sales Person":"ASM-090",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -490",
+    "Sales Person":"ASM-278",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -366",
+    "Sales Person":"ASM-018",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -297",
+    "Sales Person":"ASM-231",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -227",
+    "Sales Person":"ASM-099",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -406",
+    "Sales Person":"ASM-133",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -249",
+    "Sales Person":"ASM-277",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -18",
+    "Sales Person":"ASM-065",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -63",
+    "Sales Person":"ASM-213",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -10",
+    "Sales Person":"ASM-241",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -359",
+    "Sales Person":"ASM-191",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -245",
+    "Sales Person":"ASM-013",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -294",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -265",
+    "Sales Person":"ASM-150",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -159",
+    "Sales Person":"ASM-286",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -181",
+    "Sales Person":"ASM-062",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -113",
+    "Sales Person":"ASM-147",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -170",
+    "Sales Person":"ASM-148",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -92",
+    "Sales Person":"ASM-253",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -422",
+    "Sales Person":"ASM-092",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -499",
+    "Sales Person":"ASM-144",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -304",
+    "Sales Person":"ASM-129",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -432",
+    "Sales Person":"ASM-156",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -89",
+    "Sales Person":"ASM-071",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -20",
+    "Sales Person":"ASM-109",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -345",
+    "Sales Person":"ASM-220",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -262",
+    "Sales Person":"ASM-142",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -452",
+    "Sales Person":"ASM-197",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -339",
+    "Sales Person":"ASM-075",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -286",
+    "Sales Person":"ASM-074",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -357",
+    "Sales Person":"ASM-118",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -39",
+    "Sales Person":"ASM-253",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -154",
+    "Sales Person":"ASM-194",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -281",
+    "Sales Person":"ASM-207",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -199",
+    "Sales Person":"ASM-300",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -202",
+    "Sales Person":"ASM-104",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -65",
+    "Sales Person":"ASM-305",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -352",
+    "Sales Person":"ASM-086",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -144",
+    "Sales Person":"ASM-115",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -320",
+    "Sales Person":"ASM-146",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -142",
+    "Sales Person":"ASM-242",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -412",
+    "Sales Person":"ASM-066",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -136",
+    "Sales Person":"ASM-084",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -410",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -430",
+    "Sales Person":"ASM-038",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -172",
+    "Sales Person":"ASM-302",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -80",
+    "Sales Person":"ASM-134",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -442",
+    "Sales Person":"ASM-108",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -348",
+    "Sales Person":"ASM-014",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -143",
+    "Sales Person":"ASM-307",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -50",
+    "Sales Person":"ASM-268",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -112",
+    "Sales Person":"ASM-307",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -323",
+    "Sales Person":"ASM-118",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -437",
+    "Sales Person":"ASM-263",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -280",
+    "Sales Person":"ASM-294",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -188",
+    "Sales Person":"ASM-127",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -419",
+    "Sales Person":"ASM-172",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -49",
+    "Sales Person":"ASM-041",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -192",
+    "Sales Person":"ASM-178",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -429",
+    "Sales Person":"ASM-309",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -42",
+    "Sales Person":"ASM-260",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -123",
+    "Sales Person":"ASM-254",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -191",
+    "Sales Person":"ASM-010",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -350",
+    "Sales Person":"ASM-208",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -458",
+    "Sales Person":"ASM-253",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -91",
+    "Sales Person":"ASM-209",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -217",
+    "Sales Person":"ASM-116",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -12",
+    "Sales Person":"ASM-285",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -115",
+    "Sales Person":"ASM-165",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -474",
+    "Sales Person":"ASM-146",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -197",
+    "Sales Person":"ASM-077",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -177",
+    "Sales Person":"ASM-315",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -189",
+    "Sales Person":"ASM-168",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -40",
+    "Sales Person":"ASM-123",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -462",
+    "Sales Person":"ASM-059",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -157",
+    "Sales Person":"ASM-008",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -379",
+    "Sales Person":"ASM-076",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -204",
+    "Sales Person":"ASM-029",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -163",
+    "Sales Person":"ASM-305",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -87",
+    "Sales Person":"ASM-213",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -52",
+    "Sales Person":"ASM-030",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -243",
+    "Sales Person":"ASM-093",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -04",
+    "Sales Person":"ASM-141",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -119",
+    "Sales Person":"ASM-275",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -498",
+    "Sales Person":"ASM-071",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -158",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -218",
+    "Sales Person":"ASM-295",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -109",
+    "Sales Person":"ASM-163",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -487",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -407",
+    "Sales Person":"ASM-104",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -278",
+    "Sales Person":"ASM-215",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -126",
+    "Sales Person":"ASM-306",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -223",
+    "Sales Person":"ASM-134",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -230",
+    "Sales Person":"ASM-271",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -332",
+    "Sales Person":"ASM-310",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -360",
+    "Sales Person":"ASM-097",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -377",
+    "Sales Person":"ASM-157",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -114",
+    "Sales Person":"ASM-286",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -101",
+    "Sales Person":"ASM-160",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -250",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -292",
+    "Sales Person":"ASM-091",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -466",
+    "Sales Person":"ASM-204",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -481",
+    "Sales Person":"ASM-196",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -355",
+    "Sales Person":"ASM-120",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -470",
+    "Sales Person":"ASM-049",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -214",
+    "Sales Person":"ASM-200",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -279",
+    "Sales Person":"ASM-275",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -353",
+    "Sales Person":"ASM-280",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -03",
+    "Sales Person":"ASM-065",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -417",
+    "Sales Person":"ASM-079",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -229",
+    "Sales Person":"ASM-026",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -58",
+    "Sales Person":"ASM-143",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -382",
+    "Sales Person":"ASM-263",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -453",
+    "Sales Person":"ASM-026",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -160",
+    "Sales Person":"ASM-221",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -238",
+    "Sales Person":"ASM-021",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -38",
+    "Sales Person":"ASM-293",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -390",
+    "Sales Person":"ASM-108",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -483",
+    "Sales Person":"ASM-058",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -398",
+    "Sales Person":"ASM-087",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -178",
+    "Sales Person":"ASM-144",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -416",
+    "Sales Person":"ASM-276",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -09",
+    "Sales Person":"ASM-193",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -106",
+    "Sales Person":"ASM-173",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -443",
+    "Sales Person":"ASM-111",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -21",
+    "Sales Person":"ASM-053",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -434",
+    "Sales Person":"ASM-301",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -164",
+    "Sales Person":"ASM-291",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -252",
+    "Sales Person":"ASM-069",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -307",
+    "Sales Person":"ASM-014",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -53",
+    "Sales Person":"ASM-130",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -24",
+    "Sales Person":"ASM-087",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -134",
+    "Sales Person":"ASM-227",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -76",
+    "Sales Person":"ASM-123",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -25",
+    "Sales Person":"ASM-212",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -489",
+    "Sales Person":"ASM-171",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -206",
+    "Sales Person":"ASM-071",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -55",
+    "Sales Person":"ASM-162",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -207",
+    "Sales Person":"ASM-245",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -475",
+    "Sales Person":"ASM-212",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -94",
+    "Sales Person":"ASM-102",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -01",
+    "Sales Person":"ASM-138",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -371",
+    "Sales Person":"ASM-239",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -168",
+    "Sales Person":"ASM-014",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -19",
+    "Sales Person":"ASM-070",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -322",
+    "Sales Person":"ASM-277",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -82",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -41",
+    "Sales Person":"ASM-128",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -90",
+    "Sales Person":"ASM-184",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -423",
+    "Sales Person":"ASM-147",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -411",
+    "Sales Person":"ASM-176",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -72",
+    "Sales Person":"ASM-309",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -248",
+    "Sales Person":"ASM-074",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -219",
+    "Sales Person":"ASM-029",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -288",
+    "Sales Person":"ASM-183",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -11",
+    "Sales Person":"ASM-020",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -393",
+    "Sales Person":"ASM-082",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -370",
+    "Sales Person":"ASM-156",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -385",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -205",
+    "Sales Person":"ASM-312",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -185",
+    "Sales Person":"ASM-127",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -77",
+    "Sales Person":"ASM-188",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -363",
+    "Sales Person":"ASM-007",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -396",
+    "Sales Person":"ASM-193",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -16",
+    "Sales Person":"ASM-170",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -397",
+    "Sales Person":"ASM-288",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -282",
+    "Sales Person":"ASM-175",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -61",
+    "Sales Person":"ASM-106",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -33",
+    "Sales Person":"ASM-109",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -93",
+    "Sales Person":"ASM-277",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -328",
+    "Sales Person":"ASM-224",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -358",
+    "Sales Person":"ASM-256",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -195",
+    "Sales Person":"ASM-108",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -373",
+    "Sales Person":"ASM-308",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -146",
+    "Sales Person":"ASM-193",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -228",
+    "Sales Person":"ASM-160",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -166",
+    "Sales Person":"ASM-119",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -129",
+    "Sales Person":"ASM-081",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -261",
+    "Sales Person":"ASM-251",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -400",
+    "Sales Person":"ASM-164",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -343",
+    "Sales Person":"ASM-109",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -13",
+    "Sales Person":"ASM-047",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -211",
+    "Sales Person":"ASM-286",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -258",
+    "Sales Person":"ASM-242",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -329",
+    "Sales Person":"ASM-098",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -148",
+    "Sales Person":"ASM-079",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -259",
+    "Sales Person":"ASM-045",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -226",
+    "Sales Person":"ASM-114",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -464",
+    "Sales Person":"ASM-150",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -122",
+    "Sales Person":"ASM-224",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -240",
+    "Sales Person":"ASM-003",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -56",
+    "Sales Person":"ASM-193",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -186",
+    "Sales Person":"ASM-129",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -247",
+    "Sales Person":"ASM-148",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -375",
+    "Sales Person":"ASM-166",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -369",
+    "Sales Person":"ASM-131",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -440",
+    "Sales Person":"ASM-118",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -299",
+    "Sales Person":"ASM-168",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -151",
+    "Sales Person":"ASM-020",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -493",
+    "Sales Person":"ASM-022",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -165",
+    "Sales Person":"ASM-119",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -60",
+    "Sales Person":"ASM-040",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -441",
+    "Sales Person":"ASM-127",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -201",
+    "Sales Person":"ASM-076",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -27",
+    "Sales Person":"ASM-162",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -378",
+    "Sales Person":"ASM-125",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -315",
+    "Sales Person":"ASM-230",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -285",
+    "Sales Person":"ASM-133",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -420",
+    "Sales Person":"ASM-210",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -176",
+    "Sales Person":"ASM-095",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -02",
+    "Sales Person":"ASM-034",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -365",
+    "Sales Person":"ASM-105",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -364",
+    "Sales Person":"ASM-129",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -465",
+    "Sales Person":"ASM-191",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -107",
+    "Sales Person":"ASM-273",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -161",
+    "Sales Person":"ASM-066",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -28",
+    "Sales Person":"ASM-211",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -121",
+    "Sales Person":"ASM-260",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -486",
+    "Sales Person":"ASM-197",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -244",
+    "Sales Person":"ASM-096",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -57",
+    "Sales Person":"ASM-243",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -314",
+    "Sales Person":"ASM-007",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -125",
+    "Sales Person":"ASM-211",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -480",
+    "Sales Person":"ASM-089",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -333",
+    "Sales Person":"ASM-043",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -263",
+    "Sales Person":"ASM-123",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -301",
+    "Sales Person":"ASM-133",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -124",
+    "Sales Person":"ASM-159",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -14",
+    "Sales Person":"ASM-310",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -334",
+    "Sales Person":"ASM-015",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -500",
+    "Sales Person":"ASM-289",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -67",
+    "Sales Person":"ASM-296",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -246",
+    "Sales Person":"ASM-117",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -324",
+    "Sales Person":"ASM-046",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -141",
+    "Sales Person":"ASM-101",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -231",
+    "Sales Person":"ASM-115",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -236",
+    "Sales Person":"ASM-140",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -325",
+    "Sales Person":"ASM-256",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -173",
+    "Sales Person":"ASM-103",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -44",
+    "Sales Person":"ASM-206",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -133",
+    "Sales Person":"ASM-012",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -46",
+    "Sales Person":"ASM-265",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -48",
+    "Sales Person":"ASM-225",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -303",
+    "Sales Person":"ASM-096",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -318",
+    "Sales Person":"ASM-186",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -194",
+    "Sales Person":"ASM-286",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -137",
+    "Sales Person":"ASM-129",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -239",
+    "Sales Person":"ASM-062",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -274",
+    "Sales Person":"ASM-018",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -17",
+    "Sales Person":"ASM-237",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -130",
+    "Sales Person":"ASM-246",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -404",
+    "Sales Person":"ASM-271",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -337",
+    "Sales Person":"ASM-048",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -08",
+    "Sales Person":"ASM-112",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -485",
+    "Sales Person":"ASM-191",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -491",
+    "Sales Person":"ASM-027",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -402",
+    "Sales Person":"ASM-079",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -445",
+    "Sales Person":"ASM-257",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -401",
+    "Sales Person":"ASM-282",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -287",
+    "Sales Person":"ASM-251",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -312",
+    "Sales Person":"ASM-271",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -405",
+    "Sales Person":"ASM-063",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -266",
+    "Sales Person":"ASM-275",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -210",
+    "Sales Person":"ASM-301",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -30",
+    "Sales Person":"ASM-292",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -145",
+    "Sales Person":"ASM-132",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -180",
+    "Sales Person":"ASM-124",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -116",
+    "Sales Person":"ASM-150",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -32",
+    "Sales Person":"ASM-268",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -108",
+    "Sales Person":"ASM-256",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -225",
+    "Sales Person":"ASM-309",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -31",
+    "Sales Person":"ASM-042",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -05",
+    "Sales Person":"ASM-162",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -473",
+    "Sales Person":"ASM-166",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -85",
+    "Sales Person":"ASM-233",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -283",
+    "Sales Person":"ASM-271",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -103",
+    "Sales Person":"ASM-040",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -270",
+    "Sales Person":"ASM-280",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -494",
+    "Sales Person":"ASM-238",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -45",
+    "Sales Person":"ASM-162",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -291",
+    "Sales Person":"ASM-119",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -293",
+    "Sales Person":"ASM-064",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -276",
+    "Sales Person":"ASM-211",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -104",
+    "Sales Person":"ASM-201",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -340",
+    "Sales Person":"ASM-014",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -426",
+    "Sales Person":"ASM-013",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -117",
+    "Sales Person":"ASM-217",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -47",
+    "Sales Person":"ASM-313",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -253",
+    "Sales Person":"ASM-277",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -342",
+    "Sales Person":"ASM-085",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -273",
+    "Sales Person":"ASM-013",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -111",
+    "Sales Person":"ASM-011",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -43",
+    "Sales Person":"ASM-003",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -54",
+    "Sales Person":"ASM-222",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -428",
+    "Sales Person":"ASM-094",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -298",
+    "Sales Person":"ASM-311",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -215",
+    "Sales Person":"ASM-025",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -74",
+    "Sales Person":"ASM-100",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -267",
+    "Sales Person":"ASM-312",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -306",
+    "Sales Person":"ASM-222",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -75",
+    "Sales Person":"ASM-186",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -438",
+    "Sales Person":"ASM-242",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -308",
+    "Sales Person":"ASM-175",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -242",
+    "Sales Person":"ASM-077",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -84",
+    "Sales Person":"ASM-016",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -221",
+    "Sales Person":"ASM-048",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -310",
+    "Sales Person":"ASM-108",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -408",
+    "Sales Person":"ASM-218",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -132",
+    "Sales Person":"ASM-218",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -140",
+    "Sales Person":"ASM-046",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -51",
+    "Sales Person":"ASM-057",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -450",
+    "Sales Person":"ASM-312",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -425",
+    "Sales Person":"ASM-218",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -35",
+    "Sales Person":"ASM-298",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -336",
+    "Sales Person":"ASM-021",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -255",
+    "Sales Person":"ASM-151",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -212",
+    "Sales Person":"ASM-035",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -354",
+    "Sales Person":"ASM-053",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -372",
+    "Sales Person":"ASM-256",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -492",
+    "Sales Person":"ASM-090",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -100",
+    "Sales Person":"ASM-159",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -374",
+    "Sales Person":"ASM-226",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -319",
+    "Sales Person":"ASM-074",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -96",
+    "Sales Person":"ASM-275",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -472",
+    "Sales Person":"ASM-094",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -427",
+    "Sales Person":"ASM-271",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -264",
+    "Sales Person":"ASM-005",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -344",
+    "Sales Person":"ASM-300",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -488",
+    "Sales Person":"ASM-249",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -459",
+    "Sales Person":"ASM-122",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -88",
+    "Sales Person":"ASM-187",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -331",
+    "Sales Person":"ASM-165",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -269",
+    "Sales Person":"ASM-205",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -256",
+    "Sales Person":"ASM-182",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -184",
+    "Sales Person":"ASM-299",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -449",
+    "Sales Person":"ASM-261",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -97",
+    "Sales Person":"ASM-115",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -260",
+    "Sales Person":"ASM-240",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -216",
+    "Sales Person":"ASM-227",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -193",
+    "Sales Person":"ASM-135",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -424",
+    "Sales Person":"ASM-134",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -477",
+    "Sales Person":"ASM-088",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -376",
+    "Sales Person":"ASM-275",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -118",
+    "Sales Person":"ASM-103",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -479",
+    "Sales Person":"ASM-206",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -335",
+    "Sales Person":"ASM-106",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -15",
+    "Sales Person":"ASM-099",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -95",
+    "Sales Person":"ASM-207",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -167",
+    "Sales Person":"ASM-308",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -413",
+    "Sales Person":"ASM-198",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -380",
+    "Sales Person":"ASM-107",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -326",
+    "Sales Person":"ASM-174",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -476",
+    "Sales Person":"ASM-025",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -463",
+    "Sales Person":"ASM-168",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -409",
+    "Sales Person":"ASM-255",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -73",
+    "Sales Person":"ASM-219",
+    "Region":"South"
+  },
+  {
+    "Beat Code":"BEAT -169",
+    "Sales Person":"ASM-132",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -351",
+    "Sales Person":"ASM-253",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -234",
+    "Sales Person":"ASM-284",
+    "Region":"East"
+  },
+  {
+    "Beat Code":"BEAT -317",
+    "Sales Person":"ASM-230",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -83",
+    "Sales Person":"ASM-303",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -386",
+    "Sales Person":"ASM-127",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -384",
+    "Sales Person":"ASM-168",
+    "Region":"North"
+  },
+  {
+    "Beat Code":"BEAT -23",
+    "Sales Person":"ASM-107",
+    "Region":"West"
+  },
+  {
+    "Beat Code":"BEAT -457",
+    "Sales Person":"ASM-219",
+    "Region":"South"
+  }
+]
